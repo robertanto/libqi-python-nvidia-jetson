@@ -20,7 +20,7 @@ Compiled qi library for interfacing with Pepper and Nao robots using python on J
 
 To install the library:
 
-- Download the compiled library from [GDrive](https://drive.google.com/file/d/15qahT8OtEfvigF2H9OvI8wdEENARWx-9/view?usp=sharing).
+- Download the compiled library (qi_jetson.tar.gz) from [here](https://github.com/robertanto/libqi-python-nvidia-jetson/releases/tag/1.0).
 
 ```bash
 tar -xvzf qi_jetson.tar.gz
