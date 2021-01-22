@@ -2,7 +2,7 @@
 
 Compiled qi library for interfacing with Pepper and Nao robots using python on Jetson Nano, Tx2, Xavier.
 
-
+![](https://img.shields.io/badge/Ubuntu-16-orange.svg) ![](https://img.shields.io/badge/Ubuntu-18-orange.svg)
 ![](https://img.shields.io/badge/build-arm64-green.svg)
 ![](https://img.shields.io/badge/python-2.7-green.svg)
 ![](https://img.shields.io/badge/jetson-Nano-blue.svg)
